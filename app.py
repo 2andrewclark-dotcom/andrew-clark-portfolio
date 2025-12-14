@@ -4,7 +4,6 @@
 
 import streamlit as st
 import requests
-from streamlit_lottie import st_lottie
 import base64
 
 # ============================================================================
@@ -186,3 +185,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
